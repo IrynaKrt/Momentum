@@ -1,5 +1,5 @@
 # Momentum
-##### deploy:  https://irynakrt-jsfepreschool2022q4-momentum.netlify.app/
+##### deploy: [link](https://irynakrt-jsfepreschool2022q4-momentum.netlify.app/)
 # Iryna Sittsava
 ## Student & future full-stack developer
 
